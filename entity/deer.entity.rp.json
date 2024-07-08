@@ -1,0 +1,30 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "xov:deer",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "buck": "textures/entity/deer/buck",
+        "doe": "textures/entity/deer/doe"
+      },
+      "geometry": {
+        "buck": "geometry.deer.buck",
+        "doe": "geometry.deer.doe"
+      },
+      "animations": {
+        "idle": "animation.idle",
+        "walk": "animation.walk"
+      },
+      "render_controllers": [
+        "controller.render.deer"
+      ],
+      "spawn_egg": {
+        "base_color": "#6e341f",
+        "overlay_color": "#c0f2c9"
+      }
+    }
+  }
+}

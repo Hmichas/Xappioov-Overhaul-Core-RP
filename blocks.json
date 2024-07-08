@@ -1,0 +1,15 @@
+{
+	"format_version": "1.19.30",
+	"outcrop_chert": {
+		"textures": "outcrop_chert",
+		"sound": "stone"
+	},
+	"outcrop_granite": {
+		"textures": "outcrop_granite",
+		"sound": "stone"
+	},
+	"outcrop_quartzite": {
+		"textures": "outcrop_quartzite",
+		"sound": "stone"
+	}
+}
