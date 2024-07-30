@@ -4,7 +4,7 @@
     "description": {
       "identifier": "xov:deer",
       "materials": {
-        "default": "entity_alphatest"
+        "default": "conduit_wind"
       },
       "textures": {
         "buck": "textures/entity/deer/buck",
@@ -15,8 +15,14 @@
         "doe": "geometry.deer.doe"
       },
       "animations": {
-        "idle": "animation.idle",
-        "walk": "animation.walk"
+        "idle": "animation.deer.idle",
+        "walk": "animation.deer.walk",
+        "controller": "controller.animation.deer"
+      },
+      "scripts": {
+        "animate": [
+          "controller"
+        ]
       },
       "render_controllers": [
         "controller.render.deer"
