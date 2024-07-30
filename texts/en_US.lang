@@ -1,6 +1,7 @@
 pack.name=Xappioov's Overhaul Core RP
 pack.description=Core Resource Pack for Xappioov's Overhauls
 item.minecraft:wooden_pickaxe=Wooden Pickaxe §a(Depreciated)§r
+item.xov:antler=Antler
 item.xov:chert_chunk=Chert
 item.xov:quartzite_chunk=Chunk of Quartzite
 item.xov:granite_chunk=Chunk of Granite
