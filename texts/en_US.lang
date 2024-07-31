@@ -10,6 +10,7 @@ item.xov:flint_shard=Flint Shard
 item.xov:flint_blade=Flint Blade
 item.xov:sinew=Sinew
 item.xov:raw_venison=Raw Venison
+item.xov:cooked_venison=Cooked Venison
 tile.xov.outcrop_chert.name=Chert Outcrop
 tile.xov.outcrop_quartzite.name=Quartzite Outcrop
 tile.xov.outcrop_granite.name=Granite Outcrop
