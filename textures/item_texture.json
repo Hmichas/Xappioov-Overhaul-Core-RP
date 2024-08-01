@@ -21,10 +21,10 @@
 		"xov_antler": {
 			"textures": "textures/items/antler.png"
 		},
-		"xov_vension_raw": {
+		"xov_venison_raw": {
 			"textures": "textures/items/venison_raw.png"
 		},
-		"xov_vension_cooked": {
+		"xov_venison_cooked": {
 			"textures": "textures/items/venison_cooked.png"
 		},
 		"xov_bow_drill": {
