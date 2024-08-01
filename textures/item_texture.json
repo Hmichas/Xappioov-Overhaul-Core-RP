@@ -1,8 +1,5 @@
 {
 	"texture_data": {
-		"raw_venison": {
-			"textures": "textures/items/raw_venison.png"
-		},
 		"xov_chert_chunk": {
 			"textures": "textures/items/chert_chunk"
 		},
@@ -15,9 +12,6 @@
 		"xov_flint_blade": {
 			"textures": "textures/items/flint_blade"
 		},
-		"xov_flint_shard": {
-			"textures": "textures/items/flint_shard"
-		},
 		"xov_flint_handaxe": {
 			"textures": "textures/items/flint_handaxe"
 		},
@@ -27,13 +21,16 @@
 		"xov_antler": {
 			"textures": "textures/items/antler.png"
 		},
-		"xov_raw_venison": {
-			"textures": "textures/items/raw_venison.png"
+		"xov_vension_raw": {
+			"textures": "textures/items/venison_raw.png"
+		},
+		"xov_vension_cooked": {
+			"textures": "textures/items/venison_cooked.png"
 		},
 		"xov_bow_drill": {
 			"textures": "textures/items/bow_drill.png"
 		}
 	},
-	"resource_pack_name": "Xappioov's Geology Overhaul",
+	"resource_pack_name": "Xappioov's Overhaul Core",
 	"texture_name": "atlas.items"
 }
