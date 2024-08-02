@@ -15,8 +15,23 @@
 		"xov_flint_handaxe": {
 			"textures": "textures/items/flint_handaxe"
 		},
+		"xov_flint_knife": {
+			"textures": "textures/items/flint_knife"
+		},
+		"xov_makeshift_hatchet": {
+			"textures": "textures/items/makeshift_hatchet"
+		},
+		"xov_makeshift_handle": {
+			"textures": "textures/items/makeshift_handle"
+		},
 		"xov_sinew": {
 			"textures": "textures/items/sinew.png"
+		},
+		"xov_plant_fiber": {
+			"textures": "textures/items/plant_fiber.png"
+		},
+		"xov_cordage": {
+			"textures": "textures/items/cordage.png"
 		},
 		"xov_antler": {
 			"textures": "textures/items/antler.png"
