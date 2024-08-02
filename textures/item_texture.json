@@ -9,6 +9,15 @@
 		"xov_quartzite_chunk": {
 			"textures": "textures/items/quartzite_chunk"
 		},
+		"xov_laterite_chunk": {
+			"textures": "textures/items/laterite_chunk"
+		},
+		"xov_limonite_chunk": {
+			"textures": "textures/items/limonite_chunk"
+		},
+		"xov_bauxite_chunk": {
+			"textures": "textures/items/bauxite_chunk"
+		},
 		"xov_flint_blade": {
 			"textures": "textures/items/flint_blade"
 		},

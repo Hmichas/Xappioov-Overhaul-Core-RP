@@ -11,5 +11,17 @@
 	"outcrop_quartzite": {
 		"textures": "outcrop_quartzite",
 		"sound": "stone"
+	},
+	"laterite": {
+		"textures": "laterite",
+		"sound": "gravel"
+	},
+	"limonite": {
+		"textures": "limonite",
+		"sound": "gravel"
+	},
+	"bauxite": {
+		"textures": "bauxite",
+		"sound": "gravel"
 	}
 }

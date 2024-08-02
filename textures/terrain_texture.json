@@ -12,6 +12,15 @@
     },
     "outcrop_quartzite": {
       "textures": "textures/blocks/quartzite_chunk.uv"
+    },
+    "laterite": {
+      "textures": "textures/blocks/laterite.uv"
+    },
+    "limonite": {
+      "textures": "textures/blocks/limonite.uv"
+    },
+    "bauxite": {
+      "textures": "textures/blocks/bauxite.uv"
     }
   }
 }
