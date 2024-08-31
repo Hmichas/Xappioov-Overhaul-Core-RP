@@ -21,6 +21,9 @@
     },
     "bauxite": {
       "textures": "textures/blocks/bauxite.uv"
+    },
+    "deer_carcass_block": {
+      "textures": "textures/blocks/deer_carcass_block.uv"
     }
   }
 }

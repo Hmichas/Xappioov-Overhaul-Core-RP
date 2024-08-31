@@ -1,0 +1,20 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "xov:deer_carcass",
+            "materials": {
+                "default": "entity_alphatest"
+            },
+            "textures": {
+                "default": "textures/entity/deer/carcass"
+            },
+            "geometry": {
+                "default": "geometry.carcass_deer"
+            },
+            "render_controllers": [
+                "controller.render.default"
+            ]
+        }
+    }
+}

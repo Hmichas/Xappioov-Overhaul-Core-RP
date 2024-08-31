@@ -23,5 +23,9 @@
 	"bauxite": {
 		"textures": "bauxite",
 		"sound": "gravel"
+	},
+	"deer_carcass_block": {
+		"textures": "deer_carcass_block",
+		"sound": "bone_block"
 	}
 }
